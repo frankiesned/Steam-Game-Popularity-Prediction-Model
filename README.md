@@ -1,2 +1,3 @@
 # Steam-Game-Popularity-Prediction-Model
-Using AI, I will build an application that can predict if a game will be popular or not based on specific datapoints before release.
+
+Please read instructions.txt in the steam_dataset_2025_csv folder on how to correctly setup file structure.
