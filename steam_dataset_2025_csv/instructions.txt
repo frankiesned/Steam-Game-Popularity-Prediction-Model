@@ -1,0 +1,4 @@
+Step 1: Download dataset from https://www.kaggle.com/datasets/abhishekgupta56447/steam-games-dataset-2025/data
+Step 2: Place all csv files into this folder "steam_dataset_2025_csv"
+
+Reason: Can't upload large files to github and kagglehub won't download dataset even with API token.
