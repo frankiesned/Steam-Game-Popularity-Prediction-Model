@@ -1,6 +1,6 @@
 # Steam-Game-Popularity-Prediction-Model
 
-AI class project, first time using machine learning to predict game popularity from a Steam dataset.
+AI class project, first time using machine learning to predict game popularity from a Steam dataset. Used two models, decision tree and random forest.
 
 Slide presentation documenting outputs and findings.
 
